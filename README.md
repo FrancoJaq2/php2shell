@@ -1,9 +1,9 @@
 # 🐘 php2shell — Guía divulgativa y de mitigación para no técnicos
 
-> **Caso de estudio:** las vulnerabilidades críticas de PHP de octubre de 2026 (CVE-2026-109618 y CVE-2026-109619)
-> **Autor:** estudiante de Técnico en Ciberseguridad
-> **Público objetivo:** dueños de sitios web, community managers, emprendedores y cualquier persona que use WordPress u otro CMS sin ser programadora.
-> **Última actualización:** 26 de octubre de 2026
+ **Caso de estudio:** las vulnerabilidades críticas de PHP de octubre de 2026 (CVE-2026-109618 y CVE-2026-109619)
+ **Autor:** estudiante de Técnico en Ciberseguridad
+ **Público objetivo:** dueños de sitios web, community managers, emprendedores y cualquier persona que use WordPress u otro CMS sin ser programadora.
+ **Última actualización:** 26 de octubre de 2026
 
 ## 📥 Descarga el instructivo
 
